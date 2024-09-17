@@ -1,4 +1,4 @@
-// File: /home/runner/Dogify/app/layout.tsx
+// File: /Users/ashdcodes/Developer/dogify/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
